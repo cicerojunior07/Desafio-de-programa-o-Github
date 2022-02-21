@@ -1,24 +1,5 @@
-<!doctype html>
-<html lang="pt-br">
-  <head>
-    
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    
-   
-
-    <title>Desafio Capgemini</title>
-  </head>
-  <body>
-      <style>
-          .row{
-              margin: 30px 0;
-          }
-          .li{
-              font-size: 1.25rem;
-          }
-      </style>
+      
       
             <h1>DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI</h1>
            
@@ -81,6 +62,3 @@
        
    
 
-   
-  </body>
-</html>
