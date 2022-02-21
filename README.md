@@ -1,6 +1,3 @@
-
-      
-      
             #DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
            
             
@@ -10,7 +7,7 @@
            
       
             
-            <h3># Questão 02</h3>
+            ## Questão 02
             <h5>Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
             </h5>
             <li>
