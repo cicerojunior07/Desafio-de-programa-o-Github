@@ -1,12 +1,12 @@
 
       
       
-            <h1>DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI</h1>
+            #DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
            
             
-            <h3># Questão 01</h3>
-            <h5>Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
-            </h5>
+            ## Questão 01
+            Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
+            
            
       
             
