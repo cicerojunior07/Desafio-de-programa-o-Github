@@ -15,9 +15,7 @@
           .row{
               margin: 30px 0;
           }
-          .col-12 li{
-              font-size: 1.25rem;
-          }
+          
       </style>
       <div class="container">
         <div class="row">
